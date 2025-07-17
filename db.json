@@ -1,0 +1,16 @@
+{
+  "attendance": [
+    {
+      "timestamp": "2025-07-17T16:56:57.531Z",
+      "qrData": "attendance01",
+      "location": {
+        "lat": 18.6155008,
+        "lng": 73.9180544
+      }
+    }
+  ],
+  "student": {
+    "name": "omkar darawade",
+    "roll": "37"
+  }
+}
